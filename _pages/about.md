@@ -10,9 +10,9 @@ I received my Ph.D. degree from the School of Computer Science and Engineering o
 
 Publications:(# First author *Corresponding author)
 ---
-New:
+2025-2026:
 
-[1]Yanwei Yu#*, Longxin Guo, Dongliang Chen*, Guiyuan Jiang, Bin Wang, Yongxin Tong*, Junyu Dong. Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values[J]. Fundamental Research, 2026.
+[1]Yanwei Yu*#,Longxin Guo, Dongliang Chen*, Guiyuan Jiang, Bin Wang, Yongxin Tong*, Junyu Dong. Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values[J]. Fundamental Research, 2026.
 
 [2]Dongliang Chen#,Guihua Wen, Pengcheng Wen, Huihui Li, Pei Yang, Chuyun Chen, Bao Wang. Video-based Cross-domain Emotion Recognition via Sample-graph Relations Self-distillation. IEEE Transactions on Affective Computing, 2026.3, Accept. 
 
@@ -21,6 +21,7 @@ New:
 [4]Yanwei Yu, Hong Xia, Shaoxuan Gu, Xingyu Zhao, Dongliang Chen, Yuan Cao,Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning,Proceedings of the AAAI Conference on Artificial Intelligence,2026.
 
 ---
+2023-2024:
 
 [1]Dongliang Chen#, Peng Song*, Wenming Zheng. Learning Transferable Sparse Representations for Cross-Corpus Facial Expression Recognition. IEEE Transactions on Affective Computing, 2023, 14(02): 1322-1333.
 
