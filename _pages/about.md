@@ -12,9 +12,9 @@ Publications:(# First author *Corresponding author)
 ---
 2025-2026:
 
-[1]Yanwei Yu*#,Longxin Guo, Dongliang Chen*, Guiyuan Jiang, Bin Wang, Yongxin Tong*, Junyu Dong. Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values[J]. Fundamental Research, 2026.
+[1]Yanwei Yu#,Longxin Guo, Dongliang Chen*, Guiyuan Jiang, Bin Wang, Yongxin Tong*, Junyu Dong. Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values[J]. Fundamental Research, 2026.
 
-[2]Dongliang Chen#,Guihua Wen, Pengcheng Wen, Huihui Li, Pei Yang, Chuyun Chen, Bao Wang. Video-based Cross-domain Emotion Recognition via Sample-graph Relations Self-distillation. IEEE Transactions on Affective Computing, 2026.3, Accept. 
+[2]Dongliang Chen#,Guihua Wen*, Pengcheng Wen*, Huihui Li, Pei Yang, Chuyun Chen, Bao Wang. Video-based Cross-domain Emotion Recognition via Sample-graph Relations Self-distillation. IEEE Transactions on Affective Computing, 2026.3, Accept. 
 
 [3]Han Yan, Dongliang Chen, Guiyuan Jiang, Bin Wang, Lei Cao, Junyu Dong, Yanwei Yu, DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting, Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI 2025).
 
